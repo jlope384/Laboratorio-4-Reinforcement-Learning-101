@@ -1,6 +1,4 @@
-gymnasium[classic-control,toy-text]>=1.0
-matplotlib>=3.8
-numpy>=1.26
+gymnasium>=1.0
 ale-py>=0.9
 autorom[accept-rom-license]>=0.6
 moviepy>=2.0
